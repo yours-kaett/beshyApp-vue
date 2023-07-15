@@ -139,4 +139,8 @@ a {
   color: #313131;
 }
 
+.copy:hover {
+  color: #09496e;
+}
+
 </style>
