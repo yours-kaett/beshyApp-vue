@@ -127,6 +127,10 @@ h5 {
   border-radius: 0 7px 7px 0 !important;
 }
 
+.trash:hover {
+  color: #09496e;
+}
+
 #app {
   grid-template-columns: 1fr !important;
 }
