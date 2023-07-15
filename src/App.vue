@@ -143,4 +143,8 @@ a {
   color: #09496e;
 }
 
+hr {
+  color: #09496e;
+}
+
 </style>
