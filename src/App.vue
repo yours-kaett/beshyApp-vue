@@ -120,6 +120,7 @@ h5 {
 #output .output-text {
   padding: 8px;
   width: 100%;
+  color: #09496e;
 }
 
 .trash {
