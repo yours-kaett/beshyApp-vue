@@ -97,6 +97,7 @@ export default {
 
 body {
   font-family: Nunito;
+  background-color: green;
 }
 
 h5 {
