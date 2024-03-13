@@ -1,0 +1,8 @@
+{
+  "appId": "com.example.beshyapp",
+  "appName": "beshyApp-vue",
+  "webDir": "dist",
+  "server": {
+    "androidScheme": "https"
+  }
+}
